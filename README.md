@@ -1,4 +1,4 @@
-# EcoPlacas DB 🪵♻️
+# EcoPlacas SQL 🪵♻️
 
 Sistema de banco de dados relacional para apoiar o projeto de extensão sobre reaproveitamento de resíduos de marcenaria na produção de placas ecológicas.
 
